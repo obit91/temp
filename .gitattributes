@@ -1,0 +1,4 @@
+*.xul linguist-detectable=true
+*.xml linguist-detectable=true
+*.xbl linguist-detectable=true
+*.xbl linguist-language=XML
